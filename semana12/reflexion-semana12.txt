@@ -1,0 +1,3 @@
+REFLEXIÓN
+
+Durante este curso aprendí que la tecnología puede utilizarse para fortalecer la participación ciudadana y mejorar la organización de las comunidades. También comprendí la importancia de trabajar con bases de datos para almacenar información de manera organizada y segura. Aprendí que la autenticación ayuda a proteger el acceso a la información y que la automatización facilita tareas repetitivas mediante herramientas como n8n y Telegram. Además, entendí que una plataforma debe proteger los datos personales de los usuarios y mostrar únicamente la información necesaria. Todos estos conocimientos permiten desarrollar soluciones tecnológicas responsables, útiles y orientadas al beneficio de la comunidad.

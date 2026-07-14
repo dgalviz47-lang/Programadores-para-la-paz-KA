@@ -1,0 +1,7 @@
+FLUJO DEL SISTEMA
+
+1. Un ciudadano crea una nueva causa comunitaria.
+2. La causa queda almacenada en la base de datos.
+3. Otros ciudadanos ingresan a la plataforma y apoyan la causa.
+4. El sistema registra y cuenta automáticamente los apoyos recibidos.
+5. Cuando la causa alcanza los apoyos necesarios, el sistema genera un documento PDF con la petición para presentarla a la entidad correspondiente.

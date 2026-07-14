@@ -1,0 +1,23 @@
+MODELO DE DATOS
+
+Entidad: Causa
+
+Campos:
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito:
+Guardar la información de cada causa creada por la comunidad.
+
+Entidad: Apoyo
+
+Campos:
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito:
+Registrar los ciudadanos que apoyan una causa y llevar el conteo de los apoyos recibidos.
